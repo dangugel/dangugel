@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**dangugel/dangugel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Howdy, I'm Dan 🫡
 
-Here are some ideas to get you started:
+Details to be filled later.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Stats
+
+[![GitHub followers](https://img.shields.io/github/followers/dangugel?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/dangugel)
+[![GitHub User's stars](https://img.shields.io/github/stars/dangugel?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/dangugel)
+[![Profile Views](https://komarev.com/ghpvc/?username=dangugel&style=for-the-badge&color=blueviolet)](https://github.com/dangugel)
+
+</div>
